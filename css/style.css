@@ -11,9 +11,9 @@ html {
 body,
 html {
   height: 100%;
-  color: #272727;
+  color: whitesmoke;
   line-height: 1.8;
-  background: linear-gradient(to right, #f7b229, #dc6c11);
+  background: linear-gradient(to right, #21969e, #869e90);
   background-size: cover; }
 
 @keyframes fadein {
@@ -208,7 +208,7 @@ body {
     min-height: 400px; }
   .bgimg-3 {
     background-image: url("../assets/pic/beach.png");
-    min-height: 400px; }
+    min-height: 300px; }
 
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1,
@@ -387,7 +387,7 @@ body {
     color: rgba(234, 242, 227, 0.8); }
   .card__btn {
     padding: 0.7em 2em;
-    background: radial-gradient(#dc6c11, rgba(220, 108, 17, 0.3));
+    background: radial-gradient(#179b4e, #6360f833);
     color: #EAF2E3;
     text-decoration: none;
     text-transform: uppercase;
@@ -483,7 +483,7 @@ body {
     width: calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem); }
 
 .bg1 {
-  background-color: #272727;
+  background-color: #0c0c0c;
   color: white; }
 
 .section {
