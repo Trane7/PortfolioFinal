@@ -37,22 +37,22 @@ function toggleFunction() {
 }
 
 //Google Map API
-function myMap() {
-    myCenter = new google.maps.LatLng(40.7831, -73.9712);
-    var mapOptions = {
-      center: myCenter,
-      zoom: 11,
-      scrollwheel: false,
-      draggable: false,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    };
-    var map = new google.maps.Map(
-      document.getElementById("googleMap"),
-      mapOptions
-    );
+// function myMap() {
+//     myCenter = new google.maps.LatLng(40.7831, -73.9712);
+//     var mapOptions = {
+//       center: myCenter,
+//       zoom: 11,
+//       scrollwheel: false,
+//       draggable: false,
+//       mapTypeId: google.maps.MapTypeId.ROADMAP
+//     };
+//     var map = new google.maps.Map(
+//       document.getElementById("googleMap"),
+//       mapOptions
+//     );
   
-    var marker = new google.maps.Marker({
-      position: myCenter
-    });
-    marker.setMap(map);
-  }
+//     var marker = new google.maps.Marker({
+//       position: myCenter
+//     });
+//     marker.setMap(map);
+//   }
