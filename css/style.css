@@ -174,7 +174,9 @@ body {
   font-family: "Lato", sans-serif; }
 
 .w3-wide {
-  letter-spacing: 10px; }
+  letter-spacing: 10px; 
+  color: black;
+}
 
 .button {
   border: none;
@@ -199,13 +201,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover; }
   .bgimg-1 {
-    background-image: url("../assets/pictures/new-york-wallpaper.jpg");
+    background-image: url("../assets/pic/circuit.png");
     min-height: 100%; }
   .bgimg-2 {
-    background-image: url("../assets/pictures/coffee-shop-laptop.jpg");
+    background-image: url("../assets/pic/sora.png");
     min-height: 400px; }
   .bgimg-3 {
-    background-image: url("../assets/pictures/taxi.jpg");
+    background-image: url("../assets/pic/beach.png");
     min-height: 400px; }
 
 @media only screen and (max-device-width: 1024px) {
@@ -405,6 +407,7 @@ body {
   -ms-animation: fadein 2s;
   -o-animation: fadein 2s;
   animation: fadein 2s;
+  overflow: hidden;
   z-index: 100; }
 
 #mobileNav {
