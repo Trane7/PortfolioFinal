@@ -33,7 +33,7 @@ Welcome to my portfolio, after a few months of restarting and changing things ar
 
 ## Links
   - **[My Portfolio](https://trane7.github.io/PortfolioFinal/)**
-  - **[GitHub Repo](https://github.com/Trane7/PortfolioFina;)**
+  - **[GitHub Repo](https://github.com/Trane7/PortfolioFinal;)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/demetre-growette-0776a7b7/)**
   - **[GitHub profile](https://github.com/Trane7)**
   - **[Start of BC Portfolio](https://trane7.github.io/)**
