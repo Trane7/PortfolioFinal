@@ -178,6 +178,10 @@ body {
   color: black;
 }
 
+.w3-panel {
+  margin-left: 20%;
+}
+
 .button {
   border: none;
   display: inline-block;
