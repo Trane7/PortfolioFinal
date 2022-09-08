@@ -3,10 +3,13 @@
 *::before {
   margin: 0;
   padding: 0;
-  box-sizing: inherit; }
+  box-sizing: inherit; 
+  
+}
 
 html {
-  font-size: 62.5%; }
+  font-size: 62.5%; 
+}
 
 body,
 html {
@@ -14,7 +17,13 @@ html {
   color: whitesmoke;
   line-height: 1.8;
   background: linear-gradient(to right, #21969e, #869e90);
-  background-size: cover; }
+  background-size: cover;
+  
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
 
 @keyframes fadein {
   from {
@@ -502,3 +511,4 @@ body {
 
 .profile__section-right {
   height: 47rem; }
+
