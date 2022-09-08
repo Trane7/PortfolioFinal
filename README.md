@@ -21,7 +21,8 @@ Welcome to my portfolio, after a few months of restarting and changing things ar
 
 
 ### AFTER GRADUATING FROM THE BOOTCAMP:
-![portfolio-ss](https://user-images.githubusercontent.com/89409597/185509772-1b053815-558b-4edc-9515-643964febf64.png)
+![Screenshot 2022-09-08 123056](https://user-images.githubusercontent.com/89409597/189209848-126e4082-ff80-4c9c-9a1c-2d644a5aacb1.png)
+
 
 
 
