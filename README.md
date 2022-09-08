@@ -35,3 +35,5 @@ Welcome to my portfolio, after a few months of restarting and changing things ar
   - **[GitHub Repo](https://github.com/Trane7/PortfolioFina;)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/demetre-growette-0776a7b7/)**
   - **[GitHub profile](https://github.com/Trane7)**
+  - **[Start of BC Portfolio](https://trane7.github.io/)**
+  - **[After Graduation Porfolio](https://trane7.github.io/portfolio/)**
