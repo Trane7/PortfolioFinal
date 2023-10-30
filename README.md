@@ -9,6 +9,7 @@ Welcome to my portfolio, after a few months of restarting and changing things ar
   - [Links](#links)
 
 ## Technologies
+- **React**
 - **JavaScript**
 - **HTML**
 - **SASS**
@@ -31,9 +32,4 @@ Welcome to my portfolio, after a few months of restarting and changing things ar
 ![Screenshot 2022-09-08 120435](https://user-images.githubusercontent.com/89409597/189205494-ad47800d-a6a9-4c7f-8acd-505bad19fa85.png)
 
 
-## Links
-  - **[My Portfolio](https://trane7.github.io/PortfolioFinal/)**
-  - **[Connect on LinkedIn](https://www.linkedin.com/in/demetre-growette-0776a7b7/)**
-  - **[GitHub profile](https://github.com/Trane7)**
-  - **[Start of BC Portfolio](https://trane7.github.io/)**
-  - **[After Graduation Porfolio](https://trane7.github.io/portfolio/)**
+2
